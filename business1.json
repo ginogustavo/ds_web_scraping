@@ -1,0 +1,100 @@
+{
+  "businesses": [
+    {
+      "id": "tCkwBTuEFvhuaBoEUWqbuQ",
+      "alias": "meli-cafe-and-juice-bar-chicago",
+      "name": "Restaurant111111",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QWYCasnljmEkJwixZ2DnoQ/o.jpg",
+      "is_closed": "False",
+      "url": "www.1gg.com",
+      "review_count": 976,
+      "categories": [
+        {
+          "alias": "juicebars",
+          "title": "Juice Bars & Smoothies"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "wraps",
+          "title": "Wraps"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 41.87761,
+        "longitude": -87.647
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "301 S Halsted St",
+        "address2": "None",
+        "address3": "",
+        "city": "Chicago",
+        "zip_code": "60661",
+        "country": "US",
+        "state": "IL",
+        "display_address": [
+          "301 S Halsted St",
+          "Chicago, IL 60661"
+        ]
+      },
+      "phone": "+13124540748",
+      "display_phone": "(312) 454-0748",
+      "distance": 172.2595534673058
+    },
+    {
+      "id": "FMoNA-t4uxss2JA37ZNEJg",
+      "alias": "high-five-ramen-chicago-4",
+      "name": "Restaurant 222",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/04VRAmcg7-VRlwpYDl4ZIw/o.jpg",
+      "is_closed": "False",
+      "url": "www.gg2222.com",
+      "review_count": 815,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 41.883651,
+        "longitude": -87.648968
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "112 N Green St",
+        "address2": "",
+        "address3": "",
+        "city": "Chicago",
+        "zip_code": "60607",
+        "country": "US",
+        "state": "IL",
+        "display_address": [
+          "112 N Green St",
+          "Chicago, IL 60607"
+        ]
+      },
+      "phone": "+13123441749",
+      "display_phone": "(312) 344-1749",
+      "distance": 502.5993284777416
+    }
+  ],
+  "total": 138,
+  "region": {
+    "center": {
+      "longitude": -87.64708042144775,
+      "latitude": 41.87935503844337
+    }
+  }
+}
